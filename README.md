@@ -1,6 +1,13 @@
 # Smart Hospital Management System
 Smart Hospital Management System using MySQL, Php and Bootstrap
+# Smart Hospital Management System
 
+This project is inspired from an existing open-source project and enhanced with new features like:
+- User authentication
+- Improved UI
+- Additional modules
+
+Developed by: Rajiv Ranjan Singh
 
 Video Demo : [Hospital Management System - Youtube](https://www.youtube.com/watch?v=W2XGSM5i9P8)
 
